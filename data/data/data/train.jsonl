@@ -1,0 +1,5 @@
+{"input":"If 3x + 5 = 20, find x.","output":"3x + 5 = 20 ⇒ 3x = 15 ⇒ x = 5."}
+{"input":"A rectangle has length 6 and width 4. Find its area.","output":"Area = length × width = 6 × 4 = 24."}
+{"input":"If a + b = 10 and a - b = 2, find a and b.","output":"Add: 2a = 12 ⇒ a = 6. Then b = 10 - 6 = 4."}
+{"input":"A number multiplied by 7 gives 56. Find the number.","output":"Number = 56 ÷ 7 = 8."}
+{"input":"If a train goes 60 km in 1.5 hours, what is its speed (km/h)?","output":"Speed = distance/time = 60 / 1.5 = 40 km/h."}
