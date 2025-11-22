@@ -1,0 +1,2 @@
+{"input":"If 5y - 4 = 21, find y.","output":"5y - 4 = 21 ⇒ 5y = 25 ⇒ y = 5."}
+{"input":"The sum of three consecutive integers is 72. Find the integers.","output":"Let them be n, n+1, n+2. Then 3n + 3 = 72 ⇒ 3n = 69 ⇒ n = 23. So integers: 23, 24, 25."}
